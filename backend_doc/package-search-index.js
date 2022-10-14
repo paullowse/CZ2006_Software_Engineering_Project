@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"com.hawkerapp.app"},{"l":"com.hawkerapp.app.controller"},{"l":"com.hawkerapp.app.model"},{"l":"com.hawkerapp.app.repository"},{"l":"com.hawkerapp.app.service"}];updateSearchResults();

@@ -1,0 +1,5 @@
+com.hawkerapp.app
+com.hawkerapp.app.controller
+com.hawkerapp.app.model
+com.hawkerapp.app.repository
+com.hawkerapp.app.service
